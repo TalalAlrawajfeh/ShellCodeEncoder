@@ -1,3 +1,5 @@
+#Python 2
+
 import os
 
 strFile = raw_input("Insert the binary opcodes file path: ")
